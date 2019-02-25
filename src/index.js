@@ -7,7 +7,7 @@ import 'bootstrap/dist/css/bootstrap.css';
 
 ReactDOM.render(
     <Router>    
-    <App />
+        <App />
     </Router>, 
     document.getElementById('root')
 );
